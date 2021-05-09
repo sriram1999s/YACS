@@ -1,0 +1,19 @@
+{
+  "workers": [
+    {
+      "worker_id": 1,
+      "slots": 7,
+      "port": 4005
+    },
+    {
+      "worker_id": 2,
+      "slots": 5,
+      "port": 4006
+    },
+    {
+      "worker_id": 3,
+      "slots": 3,
+      "port": 4007
+    }
+  ]
+}
